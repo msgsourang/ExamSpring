@@ -1,0 +1,16 @@
+com\examen\gestiondette\service\PaiementService.class
+com\examen\gestiondette\model\Client.class
+com\examen\gestiondette\service\DetteService.class
+com\examen\gestiondette\model\Dette.class
+com\examen\gestiondette\controller\DetteController.class
+com\examen\gestiondette\model\Paiement$PaiementBuilder.class
+com\examen\gestiondette\repository\DetteRepository.class
+com\examen\gestiondette\model\Dette$DetteBuilder.class
+com\examen\gestiondette\DebtManagerApplication.class
+com\examen\gestiondette\controller\PaiementController.class
+com\examen\gestiondette\repository\PaiementRepository.class
+com\examen\gestiondette\model\Client$ClientBuilder.class
+com\examen\gestiondette\controller\ClientController.class
+com\examen\gestiondette\model\Paiement.class
+com\examen\gestiondette\repository\ClientRepository.class
+com\examen\gestiondette\service\ClientService.class
